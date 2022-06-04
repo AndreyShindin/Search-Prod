@@ -1,0 +1,32 @@
+.product-list {
+    width: 255px;
+    border: 2px solid black;
+}
+
+.product {
+    justify-content: center;
+    margin: 20px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 250px;
+    border: 2px solid black;
+
+    font-size: 20px;
+}
+
+.product-name {
+    margin: 0;
+    margin-right: 60px;
+
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.product-price {
+    margin: 0;
+    display: block;
+}
+
+.product-category {
+    margin: 0;
+}
